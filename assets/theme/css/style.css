@@ -89,7 +89,7 @@ section {
 
 /*! Text-aligns */
 .align-left {
-  text-align: left; }
+  text-align: justify; }
 
 .align-center {
   text-align: center; }
